@@ -128,7 +128,8 @@ meterpreter > shell
 python3 -c 'import pty; pty.spawn("/bin/bash")'
 www-data@blog:/var/www/wordpress$
 ```
-<img width="901" height="365" alt="Captura de pantalla_2026-06-11_13-53-08" src="https://github.com/user-attachments/assets/a8f270cf-0495-4c41-a548-49128de40071" />
+<img width="842" height="212" alt="Captura de pantalla_2026-06-12_18-28-52" src="https://github.com/user-attachments/assets/3a6fa609-96f6-4413-94be-7ba85035eab0" />
+
 
 ---
 
